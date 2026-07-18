@@ -1,0 +1,26 @@
+Business Loan Eligibility
+
+To qualify for a business loan:
+
+- Applicant must be at least 21 years old.
+- Business must be registered.
+- Annual turnover should exceed ₹10 Lakhs.
+- GST registration and PAN card are mandatory.
+- Loan amount ranges from ₹50,000 to ₹50 Lakhs.
+- Interest rate starts from 10.5%.
+
+Frequently Asked Questions
+
+Q: What documents are required for a business loan?
+A: The required documents include:
+- PAN Card
+- GST Registration
+- Business Registration Certificate
+- Bank Statements
+- Aadhaar Card (if applicable)
+
+Q: What is the minimum age?
+A: The applicant must be at least 21 years old.
+
+Q: What is the interest rate?
+A: The interest rate starts from 10.5%.
